@@ -3,7 +3,7 @@
 
 This is the accompanying code for the paper
 
-[Hyper-Parameter Optimization for LatentSpaces in Dynamic Recommender Systems](https://github.com/BrunoMVeloso/ECMLPKDD2021/ecmlpkdd_paper.pdf), by Bruno Veloso, Luciano Caroprese, Matthias König, Sónia Teixeira, Giuseppe Manco, Holger H. Hoos, and João Gama.
+[Hyper-Parameter Optimization for LatentSpaces in Dynamic Recommender Systems](https://github.com/BrunoMVeloso/ECMLPKDD2021/ecmlpkdd_paper.pdf), by Bruno Veloso, Luciano Caroprese, Matthias König, Sónia Teixeira, Giuseppe Manco, Holger H. Hoos, and João Gama. The paper has been accepted for presentation as a full paper at the research track of the 2021 edition of [The European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases](https://2021.ecmlpkdd.org/?page_id=1811).
 
 The paper is the result of a joint activity at the [HumaneAI-Net](https://www.humane-ai.eu/) project, as described in the [related page](https://www.humane-ai.eu/project/online-deep-automl/). A poster describing the main results achieved within this activity are described [here](https://github.com/BrunoMVeloso/ECMLPKDD2021/blob/main/Poster%20HumanE-AI.pdf).
 
