@@ -18,7 +18,7 @@ The notebook is essentially self-explanatory. You need Pytorch >= 1.5 to run it.
 
 
 Bibtex
-
+```
 @inproceedings{VelEtAl21,
  title="Hyper-Parameter Optimization for Latent Spaces in Dynamic Recommender Systems",
  author="Veloso, Bruno and Caroprese, Luciano and K{\"o}nig, Matthias and Teixeira, S{\'o}nia and Manco, Giuseppe and Hoos, Holger H and Gama, Jo{\~a}o",
@@ -26,3 +26,4 @@ Bibtex
  year="to appear"
  tags="AutoML, Hyper-Parameter Optimization, Latent Spaces, Nelder-Mead, SMAC, Recommender Systems"
 }
+```
