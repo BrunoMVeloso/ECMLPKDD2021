@@ -24,7 +24,7 @@ Bibtex
  title="Hyper-Parameter Optimization for Latent Spaces in Dynamic Recommender Systems",
  author="Veloso, Bruno and Caroprese, Luciano and K{\"o}nig, Matthias and Teixeira, S{\'o}nia and Manco, Giuseppe and Hoos, Holger H and Gama, Jo{\~a}o",
  booktitle="Proceedings of the European Conference on Machine Learning and Principles and Practice of Knowledge Discovery in Databases",
- year="to appear"
+ year="2021"
  tags="AutoML, Hyper-Parameter Optimization, Latent Spaces, Nelder-Mead, SMAC, Recommender Systems"
 }
 ```
